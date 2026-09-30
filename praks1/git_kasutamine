@@ -1,1 +1,6 @@
 Git versioonihaldussüsteemi kasutamine
+14. Git põhilised käsud:
+git add failinimi - lisab faili staging alasse
+git commit -m "kirjeldus" - salvestab muudatused lokaalsesse reposse
+git push -u LINUX_skriptimine master - lükkab muudatused kaug-repositooriumisse
+git status - näitab repositooriumi olekut
